@@ -339,6 +339,11 @@ h2{
 /*RESPONSIVO*/
 
 @media (max-width: 800px) {
+
+    h2 {
+        
+        text-align: center;
+    }
    
     .social-media {
         display: flex;
